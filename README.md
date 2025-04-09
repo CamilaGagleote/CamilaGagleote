@@ -36,6 +36,6 @@
 
 ## Vamos Conectar!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/camilagagleote)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/camila-gagleote)
 
 ![Douglas-Boaventura GitHub stats](https://github-readme-stats.vercel.app/api?username=camilagagleote\&rank_icon=percentile)
